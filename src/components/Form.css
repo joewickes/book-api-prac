@@ -1,0 +1,25 @@
+* {
+  padding: 0px;
+}
+
+input {
+  margin: 10px;;
+}
+
+select {
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 3px;
+}
+
+#search {
+  border: 1px solid black;
+  border-radius: 3px;
+  background-color: white;
+}
+
+button {
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 5px;;
+}
